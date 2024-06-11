@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # coffe_animation
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Coffee-splash-screen
+A  coffee splash screen using Dart and flutter
+>>>>>>> 2aefdebebeed5c0cd2abd2940a323f08bfbfb049
